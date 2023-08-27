@@ -1,7 +1,7 @@
 # weechat-scripts
 Weechat Scripts
 
-# Script 'custom_test.php'
+## Script [custom_test.php](https://github.com/artshade/weechat-scripts/blob/main/php/custom_test.php)
 
 1. Copy the file to the PHP script directory (e.g. `~/.local/share/weechat/php/`);
 2. Ensure [weechat-php](https://github.com/weechat/weechat/tree/master/src/plugins/php) plugin is installed or compiled for required PHP version;
