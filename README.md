@@ -1,0 +1,2 @@
+# weechat-scripts
+Weechat Scripts
